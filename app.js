@@ -1351,7 +1351,7 @@ const flowSuficienciaProfesionalBE6 = addKeyword(["continuar"]).addAnswer(
     "🤓 ¡Excelente! Sigamos avanzando",
     "\n Obtendrás la condición de APTO (Solicitud aceptada) posterior a la aprobación de la evaluación documentaria y académica, por lo que se te enviará un correo 📧 de la Oficina de Titulación informando que debes realizar el pago de las tasas económicas en un plazo maximo de 72 horas. 🧐  ",
     "\n 👀 Para iniciar es indispensable que pagues el monto correspondientes a la tasa del *Elaboración de trabajo de suficiencia profesional* ",
-    "\n 🤓 El pago de las tasas correspondientes a *Sustentación de trabajo de suficiencia profesionals* y *Diploma de título* se realiza en la etapa final de su proceso, al solicitar fecha y hora de sustentación.",
+    "\n 🤓 El pago de las tasas correspondientes a *Sustentación de trabajo de suficiencia profesional* y *Diploma de título* se realiza en la etapa final de su proceso, al solicitar fecha y hora de sustentación.",
     "\n ⏱️ Toma el tiempo necesario para realizar el pago, escribe *continuar* si ya lo hiciste y si ya revisaste la información que te compartimos.",
   ],
   null,
